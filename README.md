@@ -1,4 +1,4 @@
-## **Hello, there!** 👋 <img align="right" width="240" height="180" src="https://media.tenor.com/zRFh1MO6ErgAAAAM/zach-galifianakis-smile.gif" >
+## **Hello, there!** 👋 <img align="right" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black"><br><img align="right" width="240" height="180" src="https://media.tenor.com/zRFh1MO6ErgAAAAM/zach-galifianakis-smile.gif">
 
 Welcome to my GitHub.  
 Here you can find every project I've ever done (correctly).  
@@ -7,18 +7,10 @@ Enjoy ❤️
 
 ---
 
-<a href="https://buymeacoffee.com/angelobdev">
-<br>
-<br>
-<img align="right" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black">
-</a>
-
 ### **What are you doing right now?** 🤔
 
 🔭 I'm currently working on [opengl-engine]()  
 🌱 I'm currently learning [ANSI C]()
-
-
 
 ### **What do you use to code?** 👾
 
@@ -27,8 +19,6 @@ Enjoy ❤️
 ### **Where can I find you?** 🔍
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/angelob01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelob_inst) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21139243)
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/angelobdev)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
