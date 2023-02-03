@@ -1,5 +1,5 @@
 
-## **Hello, there!** 👋
+## **Hello, there!** 👋 <img align="right" width="160" height="120" src="https://media.tenor.com/zRFh1MO6ErgAAAAM/zach-galifianakis-smile.gif" >
 
 Welcome to my GitHub.  
 Here you can find every project I've ever done (correctly).  
@@ -23,7 +23,6 @@ Enjoy ❤️
 ### **How can I support your work?** 💸
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/angelobdev) 
 
-<img src="https://media.tenor.com/zRFh1MO6ErgAAAAM/zach-galifianakis-smile.gif" style="position:absolute; right:1rem; top:1rem; border-radius:0.5rem;">
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
