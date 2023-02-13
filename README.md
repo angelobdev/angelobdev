@@ -9,7 +9,7 @@ Enjoy ❤️
 
 ### **What are you doing right now?** 🤔
 
-🔭 I'm currently working on [opengl-engine](https://github.com/angelobdev/opengl-engine)  
+🔭 I'm currently working on [Just Another Graphics Library](https://github.com/angelobdev/jagl)  
 🌱 I'm currently learning [ANSI C](https://en.wikipedia.org/wiki/ANSI_C)
 
 ### **What do you use to code?** 👾
