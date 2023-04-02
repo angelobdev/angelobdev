@@ -4,8 +4,8 @@ Welcome to my GitHub.
 Here you can find every project I've ever done (kinda).  
 Plus you can check how I work.  
 
-🔭 I'm currently working on [Just Another Graphics Library](https://github.com/angelobdev/jagl)  
-🌱 I'm currently learning [ANSI C](https://en.wikipedia.org/wiki/ANSI_C)
+🔭 I'm currently working on [HabboJS](https://github.com/angelobdev/HabboJS)  
+🌱 I'm currently learning [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
 
 Enjoy ❤️
 
