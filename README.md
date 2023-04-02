@@ -3,14 +3,11 @@
 Welcome to my GitHub.  
 Here you can find every project I've ever done (kinda).  
 Plus you can check how I work.  
-Enjoy ❤️
-
----
-
-### **What are you doing right now?** 🤔
 
 🔭 I'm currently working on [Just Another Graphics Library](https://github.com/angelobdev/jagl)  
 🌱 I'm currently learning [ANSI C](https://en.wikipedia.org/wiki/ANSI_C)
+
+Enjoy ❤️
 
 ### **What do you use to code?** 👾
 
