@@ -1,7 +1,7 @@
 ## **Hello, there!** 👋 
 <img align="right" width="240" height="180" src="https://media.tenor.com/zRFh1MO6ErgAAAAM/zach-galifianakis-smile.gif">
 
-Welcome to my GitHub.
+Welcome to my GitHub.  
 Here you can find every project I've ever done (kinda) and see how I work.
 
 🔭 I'm currently working on [HabboJS](https://github.com/angelobdev/HabboJS)
