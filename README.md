@@ -1,4 +1,6 @@
-## **Hello, there!** 👋 <a href="https://www.buymeacoffee.com/angelobdev"><img align="right" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a><br><img align="right" width="240" height="180" src="https://media.tenor.com/zRFh1MO6ErgAAAAM/zach-galifianakis-smile.gif">
+<a href="https://www.buymeacoffee.com/angelobdev"><img align="right" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a><br><img align="right" width="240" height="180" src="https://media.tenor.com/zRFh1MO6ErgAAAAM/zach-galifianakis-smile.gif">
+
+## **Hello, there!** 👋 
 
 Welcome to my GitHub.
 Here you can find every project I've ever done (kinda) and see how I work.
