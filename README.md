@@ -1,4 +1,4 @@
-## **Hello, there!** 👋 <a href="https://www.buymeacoffee.com/angelobdev"><img align="right" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black"></a><br><img align="right" width="240" height="180" src="https://media.tenor.com/zRFh1MO6ErgAAAAM/zach-galifianakis-smile.gif">
+## 👋 **Hello, there!** <a href="https://www.buymeacoffee.com/angelobdev"><img align="right" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black"></a><br><img align="right" width="240" height="180" src="https://media.tenor.com/zRFh1MO6ErgAAAAM/zach-galifianakis-smile.gif">
 
 Welcome to my GitHub.  
 Here you can find every project I've ever done (kinda).  
@@ -11,7 +11,7 @@ Enjoy ❤️
 
 ---
 
-### **Here's what I use to code:** 👾
+### 👾 **Here's what I use to code:**
 
 #### Desktop
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
