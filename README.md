@@ -4,7 +4,7 @@
 Welcome to my GitHub.  
 Here you can find every project I've ever done (kinda) and see how I work.
 
-🔭 I'm currently working on [HabboJS](https://github.com/angelobdev/HabboJS)
+🔭 I'm currently working on [Magma](https://github.com/angelobdev/Magma)
 
 You can support my work here:  
 <a href="https://www.buymeacoffee.com/angelobdev"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
