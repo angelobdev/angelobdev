@@ -1,4 +1,5 @@
-<h1 align="left">Hello, there 👋! My name is Angelo Belcastro and I'm a developer from Italy 🇮🇹</h1>
+<h1 align="left">Hello, there 👋!</h1>
+<span>I'm Angelo Belcastro and I'm a Computer Science & Engineering student from Italy 🇮🇹</span>
 
 ###
 
