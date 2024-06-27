@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://angelobdev.github.io/](https://angelobdev.github.io/)
 
-- 📄 Know about my experiences [https://angelobdev.github.io/curriculum](https://angelobdev.github.io/curriculum)
-
 - ⚡ Fun fact: **some people find me funny (duh)**
 
 <h3 align="left">Languages and Tools:</h3>
