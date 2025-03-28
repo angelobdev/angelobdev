@@ -5,9 +5,7 @@
 
 <img align="right" height="150" src="https://media.tenor.com/zRFh1MO6ErgAAAAM/zach-galifianakis-smile.gif"  />
 
-- 🔭 I’m currently working on [Crayon](https://github.com/angelobdev/Crayon)
-
-- 🌱 I’m currently learning **OpenGL 🥲**
+- 🔭 I’m currently working at [NTT Data Italia](https://it.nttdata.com/)
 
 - 👯 I’m looking to collaborate with [t2linux](https://github.com/t2linux)
 
@@ -15,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://angelobdev.github.io/](https://angelobdev.github.io/)
 
-- 📄 Know about my experiences [https://angelobdev.github.io/](https://angelobdev.github.io/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/angelobdev/)
 
 - ⚡ Fun fact **I've been programming (badly) since I was 12**
 
