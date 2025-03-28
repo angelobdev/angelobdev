@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/angelobdev/angelobdev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/angelobdev/angelobdev/refs/heads/master/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -73,8 +73,6 @@
 
 ###
 
-
-<img alt="Pacman" src="https://raw.githubusercontent.com/angelobdev/angelobdev/output/pacman.svg">
-
+<img src="https://raw.githubusercontent.com/angelobdev/angelobdev/refs/heads/master/output/pacman.svg" alt="Pacman animation" />
 
 ###
